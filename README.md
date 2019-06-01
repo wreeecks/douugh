@@ -55,11 +55,11 @@ Quit the server with CONTROL-C.
 ```
 
 ## Creating a user using DRF browsable api
-1. Open http://127.0.0.1/api/create on any browser
+1. Open http://localhost:8000/api/create on any browser
 2. Fill up the form, then click "Post" button.
 
 ## Logging-in using DRF browsble api
-1. Open http://127.0.0.1/api/login on any browser
+1. Open http://localhost:8000/api/login on any browser
 2. Fill up the form, then click "Post" button. This should return a 32 bit string token.
 
 
